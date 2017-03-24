@@ -11,3 +11,4 @@ java chatroom / applcation about socket/thread/GUI
 
 # attention
 this program is not profect.**Please look out the PPT before you learning about this program**.
+and ,you could must modify the 'import package'
